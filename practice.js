@@ -656,13 +656,7 @@ var test = [12, 929, 11, 3, 29, 199, 1000, 7, 1, 24, 37, 4, 19, 300, 3775, 299, 
 
 // console.log(test)
 
-// var myArray = [1, 2, 3, 4, 5];
-// for (var i= 0; i <= myArray.length; i+= 2){
-//     console.log(myArray[i]);
-//     if (i === 2){
-//         break
-//     }
-// }
+
 
 
 var myArray = [1, 2, 3, 4, 5];
